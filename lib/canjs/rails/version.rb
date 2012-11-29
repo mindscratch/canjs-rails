@@ -1,6 +1,6 @@
 module Canjs
   module Rails
-    VERSION = "0.1.0"
-    CANJS_VERSION = "1.0.7"
+    VERSION = "1.1.2"
+    CANJS_VERSION = "1.1.2"
   end
 end
