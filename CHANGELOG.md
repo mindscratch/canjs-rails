@@ -1,3 +1,6 @@
+## 2.1.2 (04-Jul-2014)
+  - bump canjs version
+
 ## 1.1.2 (28 November 2012)
 
 - updated to use canjs v1.1.2

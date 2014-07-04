@@ -4,7 +4,7 @@ CanJS for Rails!
 
 This gem provides:
 
-  * can.js 2.0.0 for jQuery (including all plugins)
+  * can.js 2.1.2 for jQuery (including all plugins)
 
 This gem requires the asset pipeline, so it should work with Rails 3.1 or later. The version of CanJS included with this gem (can.jquery) requires jQuery, conveniently Rails 3.1 and later includes jquery-rails by default, so you won't need to explicitly install jQuery. However, if you aren't using jquery-rails make sure you install jQuery and require it before can.jquery in your `app/assets/javascripts/application.js`.
 
@@ -16,7 +16,7 @@ Add the canjs-rails gem to your Gemfile.
 gem "canjs-rails"
 ```
 
-And run `bundle install`. 
+And run `bundle install`.
 
 ### Rails 3.1 or greater (with asset pipeline *enabled*)
 
