@@ -2,6 +2,8 @@
 
 CanJS for Rails!
 
+**Note**: this project is no longer maintained (2018-04-05)
+
 This gem provides:
 
   * can.js 2.0.0 for jQuery (including all plugins)
